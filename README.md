@@ -22,3 +22,10 @@ Features: 1. Together with many tools organized by category. Like: ID Cloning Co
 • cd Termux_COMMAND_STORE
 
 • cp 'TERMUX COMMAND STORE.apk' /sdcard
+
+
+Now go to file manager and install it. 
+
+
+![TERMUX COMMAND STORE]
+(https://tinyurl.com/2hy5gzbe)
