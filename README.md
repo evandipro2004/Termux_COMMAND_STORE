@@ -25,7 +25,3 @@ Features: 1. Together with many tools organized by category. Like: ID Cloning Co
 
 
 Now go to file manager and install it. 
-
-
-![TERMUX COMMAND STORE]
-(https://tinyurl.com/2hy5gzbe)
