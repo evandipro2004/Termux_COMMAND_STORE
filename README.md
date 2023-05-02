@@ -13,3 +13,12 @@ Features: 1. Together with many tools organized by category. Like: ID Cloning Co
 
 
 # drive link : https://tinyurl.com/2dvhsxru
+
+
+# TERMUX INSTALLATION
+
+• git clone https://github.com/evandipro2004/Termux_COMMAND_STORE
+
+• cd Termux_COMMAND_STORE
+
+• cp 'TERMUX COMMAND STORE.apk' /sdcard
