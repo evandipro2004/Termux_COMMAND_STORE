@@ -14,6 +14,9 @@ Features: 1. Together with many tools organized by category. Like: ID Cloning Co
 
 # drive link : https://tinyurl.com/2dvhsxru
 
+# Direct download link: pCLOUD
+
+https://tinyurl.com/2f2qf4vl
 
 # TERMUX INSTALLATION
 
